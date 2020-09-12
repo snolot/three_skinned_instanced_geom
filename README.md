@@ -4,9 +4,9 @@ Three.js experiment for skinnedmesh with particles
 ## Description
 This project show how to setup a particle system using [three.js](https://threejs.org/).
 
-it use a THREE.InstancedMesh with a THREE.SkinnedMesh to spawn the particles. 
+it use a [THREE.InstancedMesh](https://threejs.org/docs/#api/en/objects/InstancedMesh) with a [THREE.SkinnedMesh](https://threejs.org/docs/#api/en/objects/SkinnedMesh) to spawn the particles. 
 
-Material use a THREE.MeshStandardMaterial shader with the onBeforeCompile methods to inject custom code in certex an fragment shader.
+Material use a THREE.MeshStandardMaterial shader with the [onBeforeCompile](https://threejs.org/docs/#api/en/materials/Material) method to inject custom code in certex an fragment shader.
 
 ![preview](./images/preview.jpg)
 
