@@ -8,8 +8,9 @@ it use a THREE.InstancedMesh with a THREE.SkinnedMesh to spawn the particles.
 
 Material use a THREE.MeshStandardMaterial shader with the onBeforeCompile methods to inject custom code in certex an fragment shader.
 
+![preview](./images/preview.jpg)
+
 ## Todo Items
 
 - Write particles positions in a THREE.DataTexture to make particles easier to animate.
 
-![preview](./images/preview.jpg)
