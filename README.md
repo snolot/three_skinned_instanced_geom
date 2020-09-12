@@ -6,7 +6,7 @@ This project show how to setup a particle system using [three.js](https://threej
 
 it use a [THREE.InstancedMesh](https://threejs.org/docs/#api/en/objects/InstancedMesh) with a [THREE.SkinnedMesh](https://threejs.org/docs/#api/en/objects/SkinnedMesh) to spawn the particles. 
 
-Material use a THREE.MeshStandardMaterial shader with the [onBeforeCompile](https://threejs.org/docs/#api/en/materials/Material) method to inject custom code in certex an fragment shader.
+Material use a THREE.MeshStandardMaterial shader with the [onBeforeCompile](https://threejs.org/docs/#api/en/materials/Material) method to inject custom code in vertex an fragment shader.
 
 ![preview](./images/preview.jpg)
 
