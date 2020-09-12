@@ -10,6 +10,10 @@ Material use a THREE.MeshStandardMaterial shader with the [onBeforeCompile](http
 
 ![preview](./images/preview.jpg)
 
+## Youtube video
+
+Check the [video](https://youtu.be/113AuUBPtII) on youtube.
+
 ## Todo Items
 
 - Write particles positions in a THREE.DataTexture to make particles easier to animate.
